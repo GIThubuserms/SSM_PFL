@@ -26,7 +26,7 @@ export default function Hero() {
 
         <div className="relative flex justify-center items-center">
           <img 
-            src="/insta_3.png" 
+            src="/public/insta_3.png" 
             alt="Instagram Marketing Stats" 
             className="w-full max-w-md md:max-w-lg lg:max-w-xl object-contain drop-shadow-2xl rounded-3xl"
           />

@@ -30,7 +30,7 @@ export default function ResultsSection() {
 
           <div className="relative flex justify-center">
             <img 
-              src="/insta_4.png" 
+              src="/public/insta_4.png" 
               alt="Social Media Content Hub" 
               className="w-full max-w-sm md:max-w-md lg:max-w-lg object-contain rounded-3xl shadow-2xl drop-shadow-2xl"
             />
